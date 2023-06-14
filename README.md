@@ -1,1 +1,2 @@
-# Master_ML_Activity3
+Outliers detection and grouping techniques.
+Team activity.
